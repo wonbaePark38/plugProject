@@ -30,7 +30,7 @@
 }
 .task_close {
 	margin-right: 5px;
-	float:none;
+	float:right;
 }
 
 .task_contents {
@@ -101,7 +101,16 @@
     text-decoration: underline
 }
 
+.task_head{
+	float: right;
+}
 
+#task_menu span{
+	font-size: 14px;
+}
+#task_menu a{
+	font-size: 16px;
+}
 
 <!-- -->
 
